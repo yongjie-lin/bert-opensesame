@@ -1,0 +1,134 @@
+1       ROOT          S .
+
+1   S             AdvP S
+1   S             NP_sg_AGR Aux_sg AAux VI
+1   S             NP_pl_AGR Aux_pl AAux VI
+1   S             NP_sg_AGR Aux_sg AAux VT NP
+1   S             NP_pl_AGR Aux_pl AAux VT NP
+1   S             NP_sg_AGR Aux_sg AAux VS that S
+1   S             NP_pl_AGR Aux_pl AAux VD NP that S
+
+1   AdvP          Adv S
+
+1   Adv           because/Adv
+1   Adv           if/Adv
+1   Adv           after/Adv
+
+1   NP            NP_sg
+1   NP            NP_pl
+
+1       NP_sg          Det N_sg
+1       NP_sg          Det N_sg Prep Det N
+1       NP_sg          Det N_sg RC_sg
+
+1       NP_pl          Det N_pl
+1       NP_pl          Det N_pl Prep Det N
+1       NP_pl          Det N_pl RC_pl
+
+1       NP_sg_AGR         Det N_sg AGR
+1       NP_sg_AGR          Det N_sg AGR Prep Det N
+1       NP_sg_AGR          Det N_sg AGR RC_sg
+
+1       NP_pl_AGR          Det N_pl AGR
+1       NP_pl_AGR          Det N_pl AGR Prep Det N
+1       NP_pl_AGR          Det N_pl AGR RC_pl
+
+
+1       RC_sg         Rel Aux_sg VI
+1       RC_sg         Rel Aux_sg VT Det N
+1       RC_sg         Rel Det N_sg Aux_sg VT
+1       RC_sg         Rel Det N_pl Aux_pl VT
+
+1       RC_pl         Rel Aux_pl VI
+1       RC_pl         Rel Aux_pl VT Det N
+1       RC_pl         Rel Det N_sg Aux_sg VT
+1       RC_pl         Rel Det N_pl Aux_pl VT
+
+1       Det             the/Det
+1       Det             my/Det
+1       Det             your/Det
+1       Det             our/Det
+1       Det             her/Det
+
+1   N             N_sg
+1   N             N_pl
+
+1       N_sg          bird/N
+1       N_sg          bee/N
+1       N_sg          ant/N
+1       N_sg          duck/N
+1       N_sg          lion/N
+1       N_sg          dog/N
+1       N_sg          tiger/N
+1       N_sg          worm/N
+1       N_sg          horse/N
+1       N_sg          cat/N
+1       N_sg          fish/N
+1       N_sg          bear/N
+1       N_sg          wolf/N
+
+1       N_pl              birds/N
+1       N_pl              bees/N
+1       N_pl              ants/N
+1       N_pl              ducks/N
+1       N_pl              lions/N
+1       N_pl              dogs/N
+1       N_pl              tigers/N
+1       N_pl              worms/N
+1       N_pl              horses/N
+1       N_pl      cats/N
+1       N_pl              fish/N
+1       N_pl              bears/N
+1       N_pl              wolves/N
+
+1       VI                cry/VI
+1       VI                smile/VI
+1       VI                sleep/VI
+1       VI                swim/VI
+1       VI                wait/VI
+1       VI                move/VI
+1       VI                change/VI
+1       VI                read/VI
+1       VI                eat/VI
+
+1       VT          dress/VT
+1       VT          kick/VT
+1       VT          hit/VT
+1       VT          hurt/VT
+1       VT          clean/VT
+1       VT          love/VT
+1       VT          accept/VT
+1       VT          remember/VT
+1       VT          comfort/VT
+
+1   VS            think/VS
+1   VS            say/VS
+1   VS            hope/VS
+1   VS            know/VS
+
+1   VD            tell/VD
+1   VD            convince/VD
+1   VD            persuade/VD
+1   VD            inform/VD
+
+1       Aux_sg         does/AuxSg
+1       Aux_sg       Modal
+1       Aux_pl       do/AuxPl
+1      Aux_pl        Modal
+
+1       Modal        can/Aux
+1       Modal        will/Aux
+1       Modal        would/Aux
+1       Modal        could/Aux
+
+1       Prep          around/Prep
+1       Prep          near/Prep
+1       Prep          with/Prep
+1       Prep          upon/Prep
+1       Prep          by/Prep
+1       Prep          behind/Prep
+1       Prep          above/Prep
+1       Prep          below/Prep
+
+1       Rel             who/Rel
+1       Rel             that/Rel

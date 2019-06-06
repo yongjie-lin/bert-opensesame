@@ -1,0 +1,120 @@
+1   ROOT          S .
+
+1   S             NP_M_Ant Aux VT Refl_M
+1   S             NP_F_Ant Aux VT Refl_F
+
+1   S             NP_M_Ant Aux VT Det N_F by/Prep Refl_M
+1   S             NP_F_Ant Aux VT Det N_M by/Prep Refl_F
+1   S             NP_M_Ant Aux VT Det N_M by/Prep Refl_M
+1   S             NP_F_Ant Aux VT Det N_F by/Prep Refl_F
+
+1   Refl_M        himself/Refl_M
+1   Refl_F        herself/Refl_F
+
+1   NP            NP_F
+1   NP            NP_M
+
+1   NP_F          Det N_F
+1   NP_F          Det N_F Prep Det N
+1   NP_F          Det N_F RC
+
+1   NP_M          Det N_M
+1   NP_M          Det N_M Prep Det N
+1   NP_M          Det N_M RC
+
+1   NP_M_Ant      Det N_M /ANT
+1   NP_M_Ant      Det N_M /ANT
+1   NP_M_Ant      Det N_M /ANT RC
+
+1   NP_F_Ant      Det N_F /ANT
+1   NP_F_Ant      Det N_F /ANT
+1   NP_F_Ant      Det N_F /ANT RC
+
+1   RC            Rel Aux VI
+1   RC            Rel Det N Aux VT
+1   RC            Rel Aux VT Det N
+
+1   Det           the/Det
+1   Det           some/Det
+1   Det           my/Det
+1   Det           your/Det
+1   Det           our/Det
+1   Det           her/Det
+
+1   N             N_F
+1   N             N_M
+
+1   N_F           girl/N_F
+1   N_F           woman/N_F
+1   N_F           queen/N_F
+1   N_F           actress/N_F
+1   N_F           sister/N_F
+1   N_F           wife/N_F
+1   N_F           mother/N_F
+1   N_F           princess/N_F
+1   N_F           aunt/N_F
+1   N_F           lady/N_F
+1   N_F           witch/N_F
+1   N_F           niece/N_F
+1   N_F           nun/N_F
+
+1   N_M           boy/N_M
+1   N_M           man/N_M
+1   N_M           king/N_M
+1   N_M           actor/N_M
+1   N_M           brother/N_M
+1   N_M           husband/N_M
+1   N_M           father/N_M
+1   N_M           prince/N_M
+1   N_M           uncle/N_M
+1   N_M           lord/N_M
+1   N_M           wizard/N_M
+1   N_M           nephew/N_M
+1   N_M           monk/N_M
+
+1   VI            cry/VI
+1   VI            smile/VI
+1   VI            sleep/VI
+1   VI            swim/VI
+1   VI            wait/VI
+1   VI            move/VI
+1   VI            change/VI
+1   VI            read/VI
+1   VI            eat/VI
+
+1   VT            dress/VT
+1   VT            kick/VT
+1   VT            hit/VT
+1   VT            hurt/VT
+1   VT            clean/VT
+1   VT            love/VT
+1   VT            accept/VT
+1   VT            remember/VT
+1   VT            comfort/VT
+
+1   VS            think/VS
+1   VS            say/VS
+1   VS            hope/VS
+1   VS            know/VS
+
+1   VD            tell/VD
+1   VD            convince/VD
+1   VD            persuade/VD
+1   VD            inform/VD
+
+1   Aux           can/Aux
+1   Aux           will/Aux
+1   Aux           would/Aux
+1   Aux           could/Aux
+
+1   Prep          around/Prep
+1   Prep          near/Prep
+1   Prep          with/Prep
+1   Prep          upon/Prep
+1   Prep          by/Prep
+1   Prep          behind/Prep
+1   Prep          above/Prep
+1   Prep          below/Prep
+
+1   Rel           who/Rel
+1   Rel           that/Rel

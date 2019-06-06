@@ -1,0 +1,184 @@
+1	ROOT	      S .
+
+1	S	          NP_M VP_M
+
+1	NP_M	      Det MNom
+1	NP_M	      Det MNom Prep Det Nom
+1	NP_M	      Det MNom RC
+
+1	NP_O	      Det Nom
+1	NP_O	      Det Nom Prep Det Nom
+1	NP_O	      Det Nom RC
+
+1	VP_M        Aux VI
+1	VP_M        Aux VT NP_O
+
+1	RC	        Rel Aux VI
+1	RC	        Rel Det Nom Aux VT
+1	RC	        Rel Aux VT Det Nom
+
+1 Nom         N
+2 Nom         JJ Nom
+
+1 MNom        MNom1
+1 MNom        MNom2
+
+1 MNom1       MN
+2 MNom1       JJ MNom1
+
+1 MNom2       MN
+2 MNom2       JJ MNom2
+2 MNom2       NS Poss MNom2
+2 MNom2       Nadj+MN
+
+1 Nadj+MN     Nadj1 MN1
+1 Nadj+MN     Nadj2 MN2
+1 Nadj+MN     Nadj3 MN3
+1 Nadj+MN     Nadj4 MN4
+1 Nadj+MN     Nadj5 MN5
+1 Nadj+MN     Nadj6 MN6
+
+1	Det	        the/Det
+1	Det	        some/Det
+1	Det	        my/Det
+1	Det	        your/Det
+1	Det	        our/Det
+1	Det	        her/Det
+
+1 Poss        's/Poss
+
+1	NS	        bird/N
+1	NS	        bee/N
+1	NS	        ant/N
+1	NS	        duck/N
+1	NS	        lion/N
+1	NS	        dog/N
+1	NS	        tiger/N
+1	NS	        worm/N
+1	NS	        horse/N
+1	NS	        cat/N
+1	NS	        fish/N
+1	NS          bear/N
+1	NS          wolf/N
+
+1	N	          bird/N
+1	N	          bee/N
+1	N	          ant/N
+1	N	          duck/N
+1	N	          lion/N
+1	N	          dog/N
+1	N	          tiger/N
+1	N	          worm/N
+1	N	          horse/N
+1	N	          cat/N
+1	N	          fish/N
+1	N	          bear/N
+1	N	          wolf/N
+
+1	N	          birds/N
+1	N	          bees/N
+1	N	          ants/N
+1	N	          ducks/N
+1	N	          lions/N
+1	N	          dogs/N
+1	N	          tigers/N
+1	N	          worms/N
+1	N	          horses/N
+1	N     	    cats/N
+1	N	          fish/N
+1	N	          bears/N
+1	N	          wolves/N
+
+1 Nadj1       worker/N
+1 MN1         bee/MN
+
+1 Nadj2       worker/N
+1 MN2         ant/MN
+
+1 Nadj3       race/N
+1 MN3         horse/MN
+
+1 Nadj4       queen/N
+1 MN4         bee/MN
+
+1 Nadj5       german/N
+1 MN5         dog/MN
+
+1 Nadj6       house/N
+1 MN6         cat/MN
+
+1	MN          bird/MN
+1	MN	        bee/MN
+1	MN	        ant/MN
+1	MN	        duck/MN
+1	MN	        lion/MN
+1	MN	        dog/MN
+1	MN	        tiger/MN
+1	MN	        worm/MN
+1	MN	        horse/MN
+1	MN	        cat/MN
+1	MN	        fish/MN
+1	MN	        bear/MN
+1	MN	        wolf/MN
+
+1	MN	        birds/MN
+1	MN	        bees/MN
+1	MN	        ants/MN
+1	MN	        ducks/MN
+1	MN	        lions/MN
+1	MN	        dogs/MN
+1	MN	        tigers/MN
+1	MN	        worms/MN
+1	MN	        horses/MN
+1	MN     	    cats/MN
+1	MN	        fish/MN
+1	MN	        bears/MN
+1	MN	        wolves/MN
+
+1	VI      	  cry/VI
+1	VI      	  smile/VI
+1	VI      	  sleep/VI
+1	VI       	  swim/VI
+1	VI       	  wait/VI
+1	VI      	  move/VI
+1	VI      	  change/VI
+1	VI      	  read/VI
+1	VI      	  eat/VI
+
+1	VT    	    dress/VT
+1	VT    	    kick/VT
+1	VT     	    hit/VT
+1	VT    	    hurt/VT
+1	VT    	    clean/VT
+1	VT    	    love/VT
+1	VT    	    accept/VT
+1	VT    	    remember/VT
+1	VT    	    comfort/VT
+
+1	Aux	        can/Aux
+1	Aux	        will/Aux
+1	Aux	        would/Aux
+1	Aux	        could/Aux
+
+1	Prep	      around/Prep
+1	Prep	      near/Prep
+1	Prep	      with/Prep
+1	Prep	      upon/Prep
+1	Prep	      by/Prep
+1	Prep	      behind/Prep
+1	Prep	      above/Prep
+1	Prep	      below/Prep
+
+1	Rel	        who/Rel
+1	Rel	        that/Rel
+
+1 JJ          small/JJ
+1 JJ          little/JJ
+1 JJ          big/JJ
+1 JJ          hot/JJ
+1 JJ          cold/JJ
+1 JJ          good/JJ
+1 JJ          bad/JJ
+1 JJ          new/JJ
+1 JJ          old/JJ
+1 JJ          young/JJ
